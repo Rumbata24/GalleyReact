@@ -1,0 +1,71 @@
+import g1 from "./assets/g1.jpg";
+import g2 from "./assets/g2.png";
+import g3 from "./assets/g3.jpg";
+import g4 from "./assets/g4.png";
+import g5 from "./assets/g5.jpg";
+import g6 from "./assets/g6.png";
+import g7 from "./assets/g7.jpg";
+import g8 from "./assets/g8.jpg";
+import g9 from "./assets/g9.jpg";
+import g10 from "./assets/g10.jpg";
+import g11 from "./assets/g11.jpg";
+import g12 from "./assets/g12.jpg";
+import g13 from "./assets/g13.jpg";
+import g14 from "./assets/g14.jpg";
+import g15 from "./assets/g15.jpg";
+import g16 from "./assets/g16.jpg";
+import g17 from "./assets/g17.jpg";
+import g18 from "./assets/g18.jpg";
+import g19 from "./assets/g19.jpg";
+import g20 from "./assets/g20.jpg";
+import g21 from "./assets/g21.jpg";
+import g22 from "./assets/g22.jpg";
+import g23 from "./assets/g23.jpg";
+import g24 from "./assets/g24.jpg";
+import g25 from "./assets/g25.jpg";
+import g26 from "./assets/g26.jpg";
+import g27 from "./assets/g27.jpg";
+import g28 from "./assets/g28.jpg";
+import g29 from "./assets/g29.jpg";
+import g30 from "./assets/g30.jpg";
+import g31 from "./assets/g31.jpg";
+import g32 from "./assets/g32.jpg";
+import g33 from "./assets/g33.jpg";
+
+const images = [
+  { img: g1 },
+  { img: g2 },
+  { img: g3 },
+  { img: g4 },
+  { img: g5 },
+  { img: g6 },
+  { img: g7 },
+  { img: g8 },
+  { img: g9 },
+  { img: g10 },
+  { img: g11 },
+  { img: g12 },
+  { img: g13 },
+  { img: g14 },
+  { img: g15 },
+  { img: g16 },
+  { img: g17 },
+  { img: g18 },
+  { img: g19 },
+  { img: g20 },
+  { img: g21 },
+  { img: g22 },
+  { img: g23 },
+  { img: g24 },
+  { img: g25 },
+  { img: g26 },
+  { img: g27 },
+  { img: g28 },
+  { img: g29 },
+  { img: g30 },
+  { img: g31 },
+  { img: g32 },
+  { img: g33 },
+];
+
+export default images;
